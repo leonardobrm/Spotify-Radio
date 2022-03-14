@@ -6,7 +6,7 @@ Marque esse projeto com uma estrela 🌟
 
 ## Preview
 
-<img src="../prints/demo.png" />
+<img src="../front-end/prints/demo.png" />
 
 ## Checklist Features
 
